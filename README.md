@@ -1,4 +1,4 @@
-😃😃 Magandang araw! (Good day) to everyone 😃😃
+## 😃😃 Magandang araw! (Good day) to everyone 😃😃
 
     System.out.print("Filipino coder here!");
    
