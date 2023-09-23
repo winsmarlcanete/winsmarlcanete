@@ -1,7 +1,7 @@
 ## 😃😃 Magandang araw! (Good day) to everyone 😃😃
 
     System.out.print("There are two languages that I'm currently learning");
-    cout << "Can you figure it out?";
+    cout << "Actually I'm focused on the upper one";
    
    - I am Winsmarl Cañete, residing at Marikina City.
    - Currently a BSCS student at Technological Institute of the Philippines (Year one!!!!)
