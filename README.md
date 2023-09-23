@@ -5,6 +5,6 @@
    
    - I am Winsmarl Cañete, residing at Marikina City.
    - Currently a BSCS student at Technological Institute of the Philippines (Year one!!!!)
-   - You can reach me via all my socials @winsmarlcanete
-   - Also, this may be outdated, either because I'm busy coding or busy at being lazy 😁😁
+   - You can reach me via all my socials @c.winsmarl or @c_winsmarl
+   - Also, this may be outdated, either because I'm busy coding or busy being lazy 😁😁
  
