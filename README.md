@@ -1,10 +1,9 @@
-## 😃😃 Magandang araw! (Good day) to everyone 😃😃
+HEY!
 
-    System.out.print("There are two languages that I'm currently learning");
-    cout << "Actually I'm focused on the upper one";
-   
-   - I am Winsmarl Cañete, residing at Marikina City.
-   - Currently a BSCS student at Technological Institute of the Philippines (Year one!!!!)
+
+[Uploading image_processing20200430-29926-pe5lnc.gif…]()
+
+   - Currently a BSCS student at Technological Institute of the Philippines (Year Two)
    - You can reach me via all my socials @c.winsmarl or @c_winsmarl
-   - Also, this may be outdated, either because I'm busy coding or busy being lazy 😁😁
+   
  
